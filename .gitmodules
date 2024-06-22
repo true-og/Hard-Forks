@@ -1,0 +1,15 @@
+[submodule "DiamondBank-OG"]
+	path = DiamondBank-OG
+	url = https://github.com/true-og/DiamondBank-OG
+[submodule "FirstPlayed-OG"]
+	path = FirstPlayed-OG
+	url = https://github.com/true-og/FirstPlayed-OG
+[submodule "SudoSigns-OG"]
+	path = SudoSigns-OG
+	url = https://github.com/true-og/SudoSigns-OG
+[submodule "ToggleDeathCoordinates-OG"]
+	path = ToggleDeathCoordinates-OG
+	url = https://github.com/true-og/ToggleDeathCoordinates-OG
+[submodule "ViaPotions-OG"]
+	path = ViaPotions-OG
+	url = https://github.com/true-og/ViaPotions-OG
