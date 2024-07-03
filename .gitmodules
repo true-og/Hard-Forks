@@ -13,3 +13,6 @@
 [submodule "ViaPotions-OG"]
 	path = ViaPotions-OG
 	url = https://github.com/true-og/ViaPotions-OG
+[submodule "BetterPickup-OG"]
+	path = BetterPickup-OG
+	url = https://github.com/NotAlexNoyle/BetterPickup-OG
