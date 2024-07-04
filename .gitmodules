@@ -16,3 +16,6 @@
 [submodule "BetterPickup-OG"]
 	path = BetterPickup-OG
 	url = https://github.com/true-og/BetterPickup-OG
+[submodule "Celeste-OG"]
+	path = Celeste-OG
+	url = https://github.com/NotAlexNoyle/Celeste-OG
