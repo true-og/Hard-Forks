@@ -19,3 +19,6 @@
 [submodule "Celeste-OG"]
 	path = Celeste-OG
 	url = https://github.com/true-og/Celeste-OG
+[submodule "CoreProtectTNT-OG"]
+	path = CoreProtectTNT-OG
+	url = https://github.com/true-og/CoreProtectTNT-OG
