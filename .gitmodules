@@ -22,3 +22,6 @@
 [submodule "CoreProtectTNT-OG"]
 	path = CoreProtectTNT-OG
 	url = https://github.com/true-og/CoreProtectTNT-OG
+[submodule "OldEnchant-OG"]
+	path = OldEnchant-OG
+	url = https://github.com/true-og/OldEnchant-OG
