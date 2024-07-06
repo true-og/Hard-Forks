@@ -25,3 +25,6 @@
 [submodule "OldEnchant-OG"]
 	path = OldEnchant-OG
 	url = https://github.com/true-og/OldEnchant-OG
+[submodule "NoDespawn-OG"]
+	path = NoDespawn-OG
+	url = https://github.com/true-og/NoDespawn-OG
