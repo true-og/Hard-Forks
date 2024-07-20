@@ -28,3 +28,9 @@
 [submodule "NoDespawn-OG"]
 	path = NoDespawn-OG
 	url = https://github.com/true-og/NoDespawn-OG
+[submodule "MCShared-OG"]
+	path = MCShared-OG
+	url = https://github.com/true-og/MCShared-OG
+[submodule "PetMaster-OG"]
+	path = PetMaster-OG
+	url = https://github.com/true-og/PetMaster-OG
