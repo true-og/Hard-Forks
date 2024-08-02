@@ -34,3 +34,6 @@
 [submodule "PetMaster-OG"]
 	path = PetMaster-OG
 	url = https://github.com/true-og/PetMaster-OG
+[submodule "ArenaRegen-OG"]
+	path = ArenaRegen-OG
+	url = https://github.com/true-og/ArenaRegen-OG
