@@ -37,3 +37,6 @@
 [submodule "ArenaRegen-OG"]
 	path = ArenaRegen-OG
 	url = https://github.com/true-og/ArenaRegen-OG
+[submodule "Splegg-OG"]
+	path = Splegg-OG
+	url = https://github.com/true-og/Splegg-OG/
