@@ -43,3 +43,6 @@
 [submodule "WGamemode-OG"]
 	path = WGamemode-OG
 	url = https://github.com/true-og/WGamemode-OG
+[submodule "SimpleBounties-OG"]
+	path = SimpleBounties-OG
+	url = https://github.com/true-og/SimpleBounties-OG
