@@ -46,3 +46,6 @@
 [submodule "SimpleBounties-OG"]
 	path = SimpleBounties-OG
 	url = https://github.com/true-og/SimpleBounties-OG
+[submodule "MiniPlaceholders-AFKPlus"]
+	path = MiniPlaceholders-AFKPlus
+	url = https://github.com/true-og/MiniPlaceholders-AFKPlus
