@@ -52,3 +52,6 @@
 [submodule "MiniPlaceholders-Essentials"]
 	path = MiniPlaceholders-Essentials
 	url = https://github.com/true-og/MiniPlaceholders-Essentials/
+[submodule "MiniPlaceholders-Statistic"]
+	path = MiniPlaceholders-Statistic
+	url = https://github.com/true-og/MiniPlaceholders-Statistic
