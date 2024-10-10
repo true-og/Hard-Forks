@@ -49,3 +49,6 @@
 [submodule "MiniPlaceholders-AFKPlus"]
 	path = MiniPlaceholders-AFKPlus
 	url = https://github.com/true-og/MiniPlaceholders-AFKPlus
+[submodule "MiniPlaceholders-Essentials"]
+	path = MiniPlaceholders-Essentials
+	url = https://github.com/true-og/MiniPlaceholders-Essentials/
