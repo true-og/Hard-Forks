@@ -54,27 +54,36 @@ for dir in "${sorted_dirs[@]}"; do
     # Get the project name without the trailing slash
     project_name="${dir%/}"
 
-    # Check if it's a Gradle project
+    # Determine if the project is Gradle or Maven, and build accordingly
     if [[ -f "$dir/build.gradle" || -f "$dir/settings.gradle" || -f "$dir/build.gradle.kts" || -f "$dir/settings.gradle.kts" ]]; then
-        # Display the progress bar with the current project name
+        # Gradle project
         progress_bar "$project_name"
-
-        # Navigate into the directory and build the project, sending output to /dev/null
         (cd "$dir" && ./gradlew build &> /dev/null)
-
-        # Check the exit code of the build command
         if [[ $? -eq 0 ]]; then
             build_results["$project_name"]="Pass"
-
-            # Copy JAR files to the plugins folder, excluding any with "part" in the filename
+            # Copy JAR files to the plugins folder, excluding any with "part" in the filename or starting with "original"
             if [[ -d "$dir/build/libs" ]]; then
-                find "$dir/build/libs" -name "*.jar" ! -name "*part*" -exec cp {} plugins/ \;
+                find "$dir/build/libs" -name "*.jar" ! -name "*part*" ! -name "original*" -exec cp {} plugins/ \;
+            fi
+        else
+            build_results["$project_name"]="Fail"
+        fi
+    elif [[ -f "$dir/pom.xml" ]]; then
+        # Maven project
+        progress_bar "$project_name"
+        (cd "$dir" && mvn package -q)
+        if [[ $? -eq 0 ]]; then
+            build_results["$project_name"]="Pass"
+            # Copy JAR files to the plugins folder, excluding any with "part" in the filename or starting with "original"
+            if [[ -d "$dir/target" ]]; then
+                find "$dir/target" -name "*.jar" ! -name "*part*" ! -name "original*" -exec cp {} plugins/ \;
             fi
         else
             build_results["$project_name"]="Fail"
         fi
     else
-        build_results["$project_name"]="Not a Gradle Project"
+        # Not a recognized project type, mark as failed
+        build_results["$project_name"]="Fail"
     fi
 
     # Update progress and increment completed count
