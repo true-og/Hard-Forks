@@ -10,9 +10,6 @@
 [submodule "ToggleDeathCoordinates-OG"]
 	path = ToggleDeathCoordinates-OG
 	url = https://github.com/true-og/ToggleDeathCoordinates-OG
-[submodule "ViaPotions-OG"]
-	path = ViaPotions-OG
-	url = https://github.com/true-og/ViaPotions-OG
 [submodule "BetterPickup-OG"]
 	path = BetterPickup-OG
 	url = https://github.com/true-og/BetterPickup-OG
