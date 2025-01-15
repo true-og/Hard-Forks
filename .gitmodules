@@ -55,3 +55,6 @@
 [submodule "AntiPieRay-OG"]
 	path = AntiPieRay-OG
 	url = https://github.com/true-og/AntiPieRay-OG
+[submodule "AreaShop-Hikari"]
+	path = AreaShop-Hikari
+	url = https://github.com/true-og/AreaShop-Hikari
