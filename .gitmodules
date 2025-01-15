@@ -52,3 +52,6 @@
 [submodule "MiniPlaceholders-Statistic"]
 	path = MiniPlaceholders-Statistic
 	url = https://github.com/true-og/MiniPlaceholders-Statistic
+[submodule "AntiPieRay-OG"]
+	path = AntiPieRay-OG
+	url = https://github.com/true-og/AntiPieRay-OG
