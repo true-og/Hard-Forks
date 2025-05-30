@@ -37,15 +37,6 @@
 [submodule "SimpleBounties-OG"]
 	path = SimpleBounties-OG
 	url = https://github.com/true-og/SimpleBounties-OG
-[submodule "MiniPlaceholders-AFKPlus"]
-	path = MiniPlaceholders-AFKPlus
-	url = https://github.com/true-og/MiniPlaceholders-AFKPlus
-[submodule "MiniPlaceholders-Essentials"]
-	path = MiniPlaceholders-Essentials
-	url = https://github.com/true-og/MiniPlaceholders-Essentials/
-[submodule "MiniPlaceholders-Statistic"]
-	path = MiniPlaceholders-Statistic
-	url = https://github.com/true-og/MiniPlaceholders-Statistic
 [submodule "AreaShop-Hikari"]
 	path = AreaShop-Hikari
 	url = https://github.com/true-og/AreaShop-Hikari
