@@ -13,9 +13,6 @@
 [submodule "BetterPickup-OG"]
 	path = BetterPickup-OG
 	url = https://github.com/true-og/BetterPickup-OG
-[submodule "Celeste-OG"]
-	path = Celeste-OG
-	url = https://github.com/true-og/Celeste-OG
 [submodule "CoreProtectTNT-OG"]
 	path = CoreProtectTNT-OG
 	url = https://github.com/true-og/CoreProtectTNT-OG
@@ -31,9 +28,6 @@
 [submodule "PetMaster-OG"]
 	path = PetMaster-OG
 	url = https://github.com/true-og/PetMaster-OG
-[submodule "ArenaRegen-OG"]
-	path = ArenaRegen-OG
-	url = https://github.com/true-og/ArenaRegen-OG
 [submodule "Splegg-OG"]
 	path = Splegg-OG
 	url = https://github.com/true-og/Splegg-OG/
@@ -52,9 +46,6 @@
 [submodule "MiniPlaceholders-Statistic"]
 	path = MiniPlaceholders-Statistic
 	url = https://github.com/true-og/MiniPlaceholders-Statistic
-[submodule "AntiPieRay-OG"]
-	path = AntiPieRay-OG
-	url = https://github.com/true-og/AntiPieRay-OG
 [submodule "AreaShop-Hikari"]
 	path = AreaShop-Hikari
 	url = https://github.com/true-og/AreaShop-Hikari
