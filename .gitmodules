@@ -1,7 +1,6 @@
 [submodule "DiamondBank-OG"]
 	path = DiamondBank-OG
 	url = https://github.com/true-og/DiamondBank-OG
-	branch = shards
 [submodule "FirstPlayed-OG"]
 	path = FirstPlayed-OG
 	url = https://github.com/true-og/FirstPlayed-OG
