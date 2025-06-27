@@ -37,3 +37,6 @@
 [submodule "SimpleBounties-OG"]
 	path = SimpleBounties-OG
 	url = https://github.com/true-og/SimpleBounties-OG
+[submodule "Spawn-OG"]
+	path = Spawn-OG
+	url = https://github.com/true-og/Spawn-OG
