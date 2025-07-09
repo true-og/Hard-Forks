@@ -40,3 +40,6 @@
 [submodule "Spawn-OG"]
 	path = Spawn-OG
 	url = https://github.com/true-og/Spawn-OG
+[submodule "HoverStats-OG"]
+	path = HoverStats-OG
+	url = https://github.com/true-og/HoverStats-OG
