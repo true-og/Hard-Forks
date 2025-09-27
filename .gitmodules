@@ -1,6 +1,3 @@
-[submodule "DiamondBank-OG"]
-	path = DiamondBank-OG
-	url = https://github.com/true-og/DiamondBank-OG
 [submodule "FirstPlayed-OG"]
 	path = FirstPlayed-OG
 	url = https://github.com/true-og/FirstPlayed-OG
