@@ -34,15 +34,9 @@
 [submodule "Spawn-OG"]
 	path = Spawn-OG
 	url = https://github.com/true-og/Spawn-OG
-[submodule "HoverStats-OG"]
-	path = HoverStats-OG
-	url = https://github.com/true-og/HoverStats-OG
 [submodule "MiniPlaceholders-AFKPlus-OG"]
 	path = MiniPlaceholders-AFKPlus-OG
 	url = https://github.com/true-og/MiniPlaceholders-AFKPlus-OG/
 [submodule "MiniPlaceholders-Essentials-OG"]
 	path = MiniPlaceholders-Essentials-OG
 	url = https://github.com/true-og/MiniPlaceholders-Essentials-OG/
-[submodule "MiniPlaceholders-Statistic-OG"]
-	path = MiniPlaceholders-Statistic-OG
-	url = https://github.com/true-og/MiniPlaceholders-Statistic-OG/
