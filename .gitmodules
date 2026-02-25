@@ -40,3 +40,6 @@
 [submodule "MiniPlaceholders-Essentials-OG"]
 	path = MiniPlaceholders-Essentials-OG
 	url = https://github.com/true-og/MiniPlaceholders-Essentials-OG/
+[submodule "PlayerBounties-OG"]
+	path = PlayerBounties-OG
+	url = https://github.com/true-og/PlayerBounties-OG
