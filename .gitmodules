@@ -43,3 +43,6 @@
 [submodule "PlayerBounties-OG"]
 	path = PlayerBounties-OG
 	url = https://github.com/true-og/PlayerBounties-OG
+[submodule "ViaPotions-OG"]
+	path = ViaPotions-OG
+	url = https://github.com/true-og/ViaPotions-OG
