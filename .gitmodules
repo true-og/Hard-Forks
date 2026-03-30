@@ -43,3 +43,6 @@
 [submodule "ViaPotions-OG"]
 	path = ViaPotions-OG
 	url = https://github.com/true-og/ViaPotions-OG
+[submodule "AFK-OG"]
+	path = AFK-OG
+	url = https://github.com/true-og/AFK-OG
