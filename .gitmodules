@@ -46,3 +46,6 @@
 [submodule "AFK-OG"]
 	path = AFK-OG
 	url = https://github.com/true-og/AFK-OG
+[submodule "PetTeleport-OG"]
+	path = PetTeleport-OG
+	url = https://github.com/true-og/PetTeleport-OG
