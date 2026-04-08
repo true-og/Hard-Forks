@@ -49,3 +49,6 @@
 [submodule "PetTeleport-OG"]
 	path = PetTeleport-OG
 	url = https://github.com/true-og/PetTeleport-OG
+[submodule "Vanish-OG"]
+	path = Vanish-OG
+	url = https://github.com/true-og/Vanish-OG
