@@ -52,3 +52,6 @@
 [submodule "Vanish-OG"]
 	path = Vanish-OG
 	url = https://github.com/true-og/Vanish-OG
+[submodule "Spleef-OG"]
+	path = Spleef-OG
+	url = https://github.com/true-og/Spleef-OG
