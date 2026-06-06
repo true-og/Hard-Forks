@@ -55,3 +55,6 @@
 [submodule "Spleef-OG"]
 	path = Spleef-OG
 	url = https://github.com/true-og/Spleef-OG
+[submodule "Duels-OG"]
+	path = Duels-OG
+	url = https://github.com/true-og/Duels-OG
