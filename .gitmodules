@@ -28,9 +28,6 @@
 [submodule "Splegg-OG"]
 	path = Splegg-OG
 	url = https://github.com/true-og/Splegg-OG
-[submodule "WGamemode-OG"]
-	path = WGamemode-OG
-	url = https://github.com/true-og/WGamemode-OG
 [submodule "Spawn-OG"]
 	path = Spawn-OG
 	url = https://github.com/true-og/Spawn-OG
