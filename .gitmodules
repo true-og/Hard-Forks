@@ -1,57 +1,57 @@
 [submodule "FirstPlayed-OG"]
 	path = FirstPlayed-OG
-	url = https://github.com/true-og/FirstPlayed-OG
+	url = https://git.trueog.net/trueog/FirstPlayed-OG
 [submodule "SudoSigns-OG"]
 	path = SudoSigns-OG
-	url = https://github.com/true-og/SudoSigns-OG
+	url = https://git.trueog.net/trueog/SudoSigns-OG
 [submodule "ToggleDeathCoordinates-OG"]
 	path = ToggleDeathCoordinates-OG
-	url = https://github.com/true-og/ToggleDeathCoordinates-OG
+	url = https://git.trueog.net/trueog/ToggleDeathCoordinates-OG
 [submodule "BetterPickup-OG"]
 	path = BetterPickup-OG
-	url = https://github.com/true-og/BetterPickup-OG
+	url = https://git.trueog.net/trueog/BetterPickup-OG
 [submodule "CoreProtectTNT-OG"]
 	path = CoreProtectTNT-OG
-	url = https://github.com/true-og/CoreProtectTNT-OG
+	url = https://git.trueog.net/trueog/CoreProtectTNT-OG
 [submodule "OldEnchant-OG"]
 	path = OldEnchant-OG
-	url = https://github.com/true-og/OldEnchant-OG
+	url = https://git.trueog.net/trueog/OldEnchant-OG
 [submodule "NoDespawn-OG"]
 	path = NoDespawn-OG
-	url = https://github.com/true-og/NoDespawn-OG
+	url = https://git.trueog.net/trueog/NoDespawn-OG
 [submodule "MCShared-OG"]
 	path = MCShared-OG
-	url = https://github.com/true-og/MCShared-OG
+	url = https://git.trueog.net/trueog/MCShared-OG
 [submodule "PetMaster-OG"]
 	path = PetMaster-OG
-	url = https://github.com/true-og/PetMaster-OG
+	url = https://git.trueog.net/trueog/PetMaster-OG
 [submodule "Splegg-OG"]
 	path = Splegg-OG
-	url = https://github.com/true-og/Splegg-OG
+	url = https://git.trueog.net/trueog/Splegg-OG
 [submodule "Spawn-OG"]
 	path = Spawn-OG
-	url = https://github.com/true-og/Spawn-OG
+	url = https://git.trueog.net/trueog/Spawn-OG
 [submodule "MiniPlaceholders-Essentials-OG"]
 	path = MiniPlaceholders-Essentials-OG
-	url = https://github.com/true-og/MiniPlaceholders-Essentials-OG
+	url = https://git.trueog.net/trueog/MiniPlaceholders-Essentials-OG
 [submodule "PlayerBounties-OG"]
 	path = PlayerBounties-OG
-	url = https://github.com/true-og/PlayerBounties-OG
+	url = https://git.trueog.net/trueog/PlayerBounties-OG
 [submodule "ViaPotions-OG"]
 	path = ViaPotions-OG
-	url = https://github.com/true-og/ViaPotions-OG
+	url = https://git.trueog.net/trueog/ViaPotions-OG
 [submodule "AFK-OG"]
 	path = AFK-OG
-	url = https://github.com/true-og/AFK-OG
+	url = https://git.trueog.net/trueog/AFK-OG
 [submodule "PetTeleport-OG"]
 	path = PetTeleport-OG
-	url = https://github.com/true-og/PetTeleport-OG
+	url = https://git.trueog.net/trueog/PetTeleport-OG
 [submodule "Vanish-OG"]
 	path = Vanish-OG
-	url = https://github.com/true-og/Vanish-OG
+	url = https://git.trueog.net/trueog/Vanish-OG
 [submodule "Spleef-OG"]
 	path = Spleef-OG
-	url = https://github.com/true-og/Spleef-OG
+	url = https://git.trueog.net/trueog/Spleef-OG
 [submodule "Duels-OG"]
 	path = Duels-OG
-	url = https://github.com/true-og/Duels-OG
+	url = https://git.trueog.net/trueog/Duels-OG
