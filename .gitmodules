@@ -55,3 +55,6 @@
 [submodule "Duels-OG"]
 	path = Duels-OG
 	url = https://git.trueog.net/trueog/Duels-OG
+[submodule "Yamipa-OG"]
+	path = Yamipa-OG
+	url = https://git.trueog.net/trueog/Yamipa-OG
